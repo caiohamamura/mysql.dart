@@ -1,3 +1,7 @@
+## 0.0.29
+
+- Add support for empty password
+
 ## 0.0.28
 
 - Add support for unix socket on pool connection
